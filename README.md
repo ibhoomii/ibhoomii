@@ -151,7 +151,7 @@ Android application that identifies flower species using TensorFlow image classi
 
 # 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhoomi-shetty-44a802312/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhoomishetty03/)
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:shettbhoomi@gmail.com)
 
